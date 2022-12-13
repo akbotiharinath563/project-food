@@ -1,0 +1,163 @@
+.nav-image{
+    width:100px;
+    height:10%;
+}
+.nav-link-custon{
+    color:black !important;
+    padding-left:10px !important;
+}
+.nav-link-custon:hover{
+    color:rgb(250, 253, 254) !important;
+    background-color:#5a95e8;
+}
+.buttom-custom{
+    border:none;
+}
+.Nav-logo{
+    height:69px;
+    width:80px;
+}
+.navbar-nav-custom{
+    margin-left:auto;
+}
+.container-custom{
+    background-color:rgb(171, 212, 212);
+    border-bottom:3px solid;
+}
+.banner-bg-image{
+    background-image:url("foodmunch-banner-bg.png");
+    height:100vh;
+    background-size:cover;
+}
+.banner-header{
+    color:white;
+    font-family:sans-serif;
+}
+.banner-description{
+    color:white;
+    font-size:30px;
+}
+.banner-button{
+    border-radius:10px;
+    background-color:rgb(254, 253, 254);
+    border:none;
+    margin-right:20px;
+    outline:3px solid white;
+}
+.banner-button:hover{
+    outline:3px solid white;
+    background-color:transparent;
+    color:white;
+    border:none;
+}
+.text-arra-banner{
+    text-align:center;
+}
+.wcu-section{
+    background-color:white;
+}
+.wcu-content{
+    padding:25px;
+}
+.wcu-card{
+    text-align:center;
+    border:0.5px solid grey;
+    background-color: whitesmoke;
+    border-radius:10px;
+   
+}
+.wcu-card-image{
+    width:70px;
+    height:70px;
+}
+.em-bg-color{
+    background-color:white;
+}
+.em-heading{
+    padding:10px;
+    color:black;
+}
+.em-item-image{
+    border-radius:10px;
+}
+.em-item-link{
+    color:black;
+}
+.em-card{
+    background-color:whitesmoke;
+    padding:10px;
+    border-radius:10px;
+    box-shadow:3px 3px 10px rgb(229, 221, 221) ;
+}
+.hsfs{
+    background-color:whitesmoke;
+    border-radius:10px;
+}
+.dp{
+    background-color:whitesmoke;
+    border-radius:10px;
+}
+.pc-image{
+    width:50px;
+    height:50px;
+    margin:10px;
+}
+.thank{
+    background-image:radial-gradient(#aa44ff,#ff44aa);
+}
+.button-vouchar{
+    height:50px;
+    width:150px;
+    background-color:aqua;
+}
+.fu-icon-container{
+    font-size:3em;
+    background-color:rgb(107, 237, 142);
+    width:80px;
+    border-radius:100%;
+}
+.t{
+    color:rgb(122, 122, 231);
+    padding-left:18px;
+}
+.i{
+    color:rgb(196, 69, 69);
+    padding-left:18px;
+}
+.f{
+    color:blue;
+    padding-left:18px;
+}
+.fu-bg{
+    background-color:whitesmoke;
+    border-radius:10px;
+}
+.fu-header{
+    padding:10px;
+}
+.fs-image{
+    width:50px;
+    height:50px;
+}
+.fs{
+    background-color:orangered;
+}
+.fs-header-description{
+    text-align:center;
+}
+.fs-image-{
+    text-align:center;
+}
+.footer-section {
+    background-color: #0c651b;
+  }
+  .footer-section-mail-id {
+    color: #959ead;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+  }
